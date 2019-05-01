@@ -1,0 +1,29 @@
+[
+{
+    "id": 1,
+    "name": "Spongebob Squarepants",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+},
+
+{
+    "id": 2,
+    "name": "Jimmy Neutron", 
+    "image": "https://vignette.wikia.nocookie.net/jimmyneutron/images/5/57/Jimmy_Neutron.png/revision/latest/scale-to-width-down/229?cb=20180219044703"
+},
+{
+    "id": 3,
+    "name": "Sheen",
+    "image": "https://vignette.wikia.nocookie.net/jimmyneutron/images/e/ee/Sheen_jimmy_neutron.png/revision/latest?cb=20180214190900"
+},
+{
+    "id": 4,
+    "name": "Timmy Turner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqAcrEG_ZWDOXHOjenMltHwA4K77q5TFw6HKYrWdR94-DXQXn4g"
+},
+{
+    "id": 5,
+    "name": "Patrick Star",
+    "image": "https://static.giantbomb.com/uploads/scale_small/8/82962/2001131-309px_patrick_star.svg.png"
+}
+
+]
