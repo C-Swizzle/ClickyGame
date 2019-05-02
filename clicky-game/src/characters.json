@@ -18,12 +18,17 @@
 {
     "id": 4,
     "name": "Timmy Turner",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqAcrEG_ZWDOXHOjenMltHwA4K77q5TFw6HKYrWdR94-DXQXn4g"
+    "image": "https://vignette.wikia.nocookie.net/nickelodeon-movies/images/1/12/Timmy_Turner2.png/revision/latest?cb=20180412153339"
 },
 {
     "id": 5,
     "name": "Patrick Star",
     "image": "https://static.giantbomb.com/uploads/scale_small/8/82962/2001131-309px_patrick_star.svg.png"
+},
+{
+    "id": 6,
+    "name": "Saitama",
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/0/0c/Saitama_one_punch.png/revision/latest?cb=20190125003222"
 }
 
 ]
