@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/clicky-game/static/css/main.795991f2.chunk.css",
-    "main.js": "/clicky-game/static/js/main.1032f43a.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.1032f43a.chunk.js.map",
-    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
-    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/clicky-game/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.0f032015.chunk.js": "/clicky-game/static/js/2.0f032015.chunk.js",
-    "static/js/2.0f032015.chunk.js.map": "/clicky-game/static/js/2.0f032015.chunk.js.map",
-    "index.html": "/clicky-game/index.html",
-    "precache-manifest.eca84364963bbd4522f781811a839e09.js": "/clicky-game/precache-manifest.eca84364963bbd4522f781811a839e09.js",
-    "service-worker.js": "/clicky-game/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/clicky-game/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.795991f2.chunk.css.map": "/clicky-game/static/css/main.795991f2.chunk.css.map"
+    "main.css": "/ClickyGame/static/css/main.795991f2.chunk.css",
+    "main.js": "/ClickyGame/static/js/main.1032f43a.chunk.js",
+    "main.js.map": "/ClickyGame/static/js/main.1032f43a.chunk.js.map",
+    "runtime~main.js": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js",
+    "runtime~main.js.map": "/ClickyGame/static/js/runtime~main.1eb9bb0a.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/ClickyGame/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.0f032015.chunk.js": "/ClickyGame/static/js/2.0f032015.chunk.js",
+    "static/js/2.0f032015.chunk.js.map": "/ClickyGame/static/js/2.0f032015.chunk.js.map",
+    "index.html": "/ClickyGame/index.html",
+    "precache-manifest.639a5c1ebe38b08cd81b208d0eac27f9.js": "/ClickyGame/precache-manifest.639a5c1ebe38b08cd81b208d0eac27f9.js",
+    "service-worker.js": "/ClickyGame/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/ClickyGame/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.795991f2.chunk.css.map": "/ClickyGame/static/css/main.795991f2.chunk.css.map"
   }
 }
