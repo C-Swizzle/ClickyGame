@@ -9,19 +9,28 @@ class CardContainer extends Component {
 state={
     clickedArray:[],
     characters: characters,
-    score: 0
+    score: 0,
+    TopScore: 0
 };
 
 handleClick = event => {
-    // console.log(event.target);
     const {id} = event.target;
     console.log(this.state.score);
     if(!this.state.clickedArray.includes(id)){
+        if(this.state.score===this.state.TopScore){
         this.setState({
             clickedArray: this.state.clickedArray.concat([id]),
             characters: this.shuffle(characters),
-            score: this.state.score +1
+            score: this.state.score +1,
+            TopScore: this.state.score +1
         })
+        } else {
+            this.setState({
+                clickedArray: this.state.clickedArray.concat([id]),
+                characters: this.shuffle(characters),
+                score: this.state.score +1
+            })
+        }
     } else {
 
         console.log("loser");
@@ -47,7 +56,7 @@ shuffle = arr => {
 render(){
     return (
         <>
-        <Header score={this.state.score}/>
+        <Header score={this.state.score} TopScore={this.state.TopScore} />
         <Container>
         <Row>
         {this.state.characters.map(char =>{
